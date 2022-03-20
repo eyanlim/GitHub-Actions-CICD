@@ -26,6 +26,15 @@ let users = [
       plan_id: 1,
       signup_date: "2021-01-01T00:00:00.000Z",
     },
+    {
+      first_name: "Neil",
+      last_name: "Jonas",
+      email: "jn@desdev.co",
+      user_id: 4,
+      phone: "98765555",
+      plan_id: 1,
+      signup_date: "2021-01-01T00:00:00.000Z",
+    },
   ];
   
   function get_all_users() {
