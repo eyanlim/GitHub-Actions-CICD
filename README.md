@@ -111,7 +111,7 @@ The CI/CD pipeline workflow for this demo is defined in `main.yml`. The workflow
    npm install jest supertest --save-dev
    ```
   
-3. The Node.js API comes with basic GET and POST endpoints without using any remote database connection or exception handling. Test the API endpoints on local machine first. You may use Postman to test the endpoints. Start the app with command `npm start`. These endpoints should return a response.
+3. The Node.js API comes with basic GET and POST endpoints without any access control, remote database connection nor exception handling. Test the API endpoints on local machine first. You may use Postman to test the endpoints. Start the app with command `npm start`. These endpoints should return a response.
   
      <strong>GET</strong>
   
