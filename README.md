@@ -1,10 +1,10 @@
 [![Node CI/CD Workflow](https://github.com/eyanlim/github-action-cicd/actions/workflows/main.yml/badge.svg)](https://github.com/eyanlim/github-action-cicd/actions/workflows/main.yml)
-![Last Commit](https://img.shields.io/github/last-commit/eyanlim/GitHub-Actions-CICD/main)<br>
-<a href="https://eyan-nus-fintech-devops.herokuapp.com" target="_blank"><img src="https://img.shields.io/badge/-Heroku%20Site-430098?logo=heroku&logoColor=white&style=flat&label=Demo" height="25"/>
-<a href="https://t.me/leydevopsproject" target="_blank"><img src="https://img.shields.io/badge/-Telegram%20Channel-26A5E4?logo=telegram&logoColor=white&style=flat&label=Demo" height="25"/>
+![Last Commit](https://img.shields.io/github/last-commit/eyanlim/GitHub-Actions-CICD/main)
 
 
 # NUS FinTech Batch16 DevOps CI/CD Show & Tell
+<a href="https://eyan-nus-fintech-devops.herokuapp.com" target="_blank"><img src="https://img.shields.io/badge/-Heroku%20Site-430098?logo=heroku&logoColor=white&style=flat&label=Demo" height="25"/>
+<a href="https://t.me/leydevopsproject" target="_blank"><img src="https://img.shields.io/badge/-Telegram%20Channel-26A5E4?logo=telegram&logoColor=white&style=flat&label=Demo" height="25"/></a><br>
 Implement a starter CI/CD pipeline using GitHub Actions to automate the build, test and deployment of a Node.js API to Heroku for every commit changes to the main branch.
 
 
